@@ -1,0 +1,31 @@
+weaver_id,name,cluster,district,state,product,status
+KAN-W-001,Murugan Selvaraj,Kancheepuram Town,Kancheepuram,Tamil Nadu,Kancheepuram Silk,active
+KAN-W-002,Lakshmi Ramasamy,Ayyampettai,Kancheepuram,Tamil Nadu,Kancheepuram Silk,active
+KAN-W-003,Kannan Velu,Arani,Tiruvannamalai,Tamil Nadu,Kancheepuram Silk,active
+KAN-W-004,Saraswathi Kumar,Pillaiyarpalayam,Kancheepuram,Tamil Nadu,Kancheepuram Silk,active
+KAN-W-005,Senthil Arumugam,Thirupukuzhi,Kancheepuram,Tamil Nadu,Kancheepuram Silk,active
+KAN-W-006,Meenakshi Sundaram,Kancheepuram Town,Kancheepuram,Tamil Nadu,Kancheepuram Silk,active
+KAN-W-007,Rajendran Pillai,Ayyampettai,Kancheepuram,Tamil Nadu,Kancheepuram Silk,active
+KAN-W-008,Valli Ganesan,Arani,Tiruvannamalai,Tamil Nadu,Kancheepuram Silk,active
+KAN-W-009,Shanmugam Devar,Pillaiyarpalayam,Kancheepuram,Tamil Nadu,Kancheepuram Silk,active
+KAN-W-010,Kamala Natarajan,Thirupukuzhi,Kancheepuram,Tamil Nadu,Kancheepuram Silk,inactive
+POC-W-001,Ramulu Gajam,Bhoodan Pochampally,Yadadri Bhuvanagiri,Telangana,Pochampalli Ikat,active
+POC-W-002,Sujatha Chintakindi,Koyalagudem,Yadadri Bhuvanagiri,Telangana,Pochampalli Ikat,active
+POC-W-003,Narasimha Bhoga,Puttapaka,Yadadri Bhuvanagiri,Telangana,Pochampalli Ikat,active
+POC-W-004,Padma Vemula,Siripuram,Nalgonda,Telangana,Pochampalli Ikat,active
+POC-W-005,Srinivas Gunda,Choutuppal,Yadadri Bhuvanagiri,Telangana,Pochampalli Ikat,active
+POC-W-006,Laxmi Kondaveeti,Bhoodan Pochampally,Yadadri Bhuvanagiri,Telangana,Pochampalli Ikat,active
+POC-W-007,Venkatesh Tadaka,Koyalagudem,Yadadri Bhuvanagiri,Telangana,Pochampalli Ikat,active
+POC-W-008,Saroja Enugu,Puttapaka,Yadadri Bhuvanagiri,Telangana,Pochampalli Ikat,active
+POC-W-009,Anjaiah Siliveru,Siripuram,Nalgonda,Telangana,Pochampalli Ikat,active
+POC-W-010,Yadamma Bolla,Choutuppal,Yadadri Bhuvanagiri,Telangana,Pochampalli Ikat,inactive
+BAN-W-001,Mohd. Irfan Ansari,Madanpura,Varanasi,Uttar Pradesh,Banaras Brocades and Sarees,active
+BAN-W-002,Shabana Bano,Lohta,Varanasi,Uttar Pradesh,Banaras Brocades and Sarees,active
+BAN-W-003,Ramesh Maurya,Sarai Mohana,Varanasi,Uttar Pradesh,Banaras Brocades and Sarees,active
+BAN-W-004,Abdul Kalam Ansari,Mubarakpur,Azamgarh,Uttar Pradesh,Banaras Brocades and Sarees,active
+BAN-W-005,Sunita Devi,Chandauli Town,Chandauli,Uttar Pradesh,Banaras Brocades and Sarees,active
+BAN-W-006,Imran Ahmad,Madanpura,Varanasi,Uttar Pradesh,Banaras Brocades and Sarees,active
+BAN-W-007,Lalji Prasad,Lohta,Varanasi,Uttar Pradesh,Banaras Brocades and Sarees,active
+BAN-W-008,Nasreen Begum,Sarai Mohana,Varanasi,Uttar Pradesh,Banaras Brocades and Sarees,active
+BAN-W-009,Rafiq Ansari,Mubarakpur,Azamgarh,Uttar Pradesh,Banaras Brocades and Sarees,active
+BAN-W-010,Kailash Nath,Chandauli Town,Chandauli,Uttar Pradesh,Banaras Brocades and Sarees,inactive

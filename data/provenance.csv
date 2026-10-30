@@ -1,0 +1,22 @@
+batch_id,weaver_id,product,loom_type,yarn,start_date,end_date,district
+KAN-B-1001,KAN-W-001,Kancheepuram Silk,pit handloom,pure mulberry silk + pure zari,2026-02-01,2026-02-21,Kancheepuram
+KAN-B-1002,KAN-W-002,Kancheepuram Silk,pit handloom,pure mulberry silk + pure zari,2026-03-02,2026-03-22,Kancheepuram
+KAN-B-1003,KAN-W-003,Kancheepuram Silk,pit handloom,pure mulberry silk + pure zari,2026-04-03,2026-04-23,Tiruvannamalai
+KAN-B-1004,KAN-W-004,Kancheepuram Silk,pit handloom,pure mulberry silk + pure zari,2026-05-04,2026-05-24,Kancheepuram
+KAN-B-1005,KAN-W-005,Kancheepuram Silk,pit handloom,pure mulberry silk + pure zari,2026-06-05,2026-06-25,Surat
+KAN-B-1006,KAN-W-006,Kancheepuram Silk,powerloom,pure mulberry silk + pure zari,2026-07-06,2026-07-26,Kancheepuram
+KAN-B-1007,KAN-W-007,Kancheepuram Silk,pit handloom,pure mulberry silk + pure zari,2026-08-07,2026-08-27,Kancheepuram
+POC-B-1001,POC-W-001,Pochampalli Ikat,pit handloom,mercerised cotton + mulberry silk (tie-dyed),2026-02-01,2026-02-21,Yadadri Bhuvanagiri
+POC-B-1002,POC-W-002,Pochampalli Ikat,pit handloom,mercerised cotton + mulberry silk (tie-dyed),2026-03-02,2026-03-22,Yadadri Bhuvanagiri
+POC-B-1003,POC-W-003,Pochampalli Ikat,pit handloom,mercerised cotton + mulberry silk (tie-dyed),2026-04-03,2026-04-23,Yadadri Bhuvanagiri
+POC-B-1004,POC-W-004,Pochampalli Ikat,pit handloom,mercerised cotton + mulberry silk (tie-dyed),2026-05-04,2026-05-24,Nalgonda
+POC-B-1005,POC-W-005,Pochampalli Ikat,pit handloom,mercerised cotton + mulberry silk (tie-dyed),2026-06-05,2026-06-25,Hyderabad
+POC-B-1006,POC-W-006,Pochampalli Ikat,powerloom,mercerised cotton + mulberry silk (tie-dyed),2026-07-06,2026-07-26,Yadadri Bhuvanagiri
+POC-B-1007,POC-W-007,Pochampalli Ikat,pit handloom,mercerised cotton + mulberry silk (tie-dyed),2026-08-07,2026-08-27,Yadadri Bhuvanagiri
+BAN-B-1001,BAN-W-001,Banaras Brocades and Sarees,jacquard handloom,katan mulberry silk + zari,2026-02-01,2026-02-21,Varanasi
+BAN-B-1002,BAN-W-002,Banaras Brocades and Sarees,jacquard handloom,katan mulberry silk + zari,2026-03-02,2026-03-22,Varanasi
+BAN-B-1003,BAN-W-003,Banaras Brocades and Sarees,jacquard handloom,katan mulberry silk + zari,2026-04-03,2026-04-23,Varanasi
+BAN-B-1004,BAN-W-004,Banaras Brocades and Sarees,jacquard handloom,katan mulberry silk + zari,2026-05-04,2026-05-24,Azamgarh
+BAN-B-1005,BAN-W-005,Banaras Brocades and Sarees,jacquard handloom,katan mulberry silk + zari,2026-06-05,2026-06-25,Surat
+BAN-B-1006,BAN-W-006,Banaras Brocades and Sarees,powerloom,katan mulberry silk + zari,2026-07-06,2026-07-26,Varanasi
+BAN-B-1007,BAN-W-007,Banaras Brocades and Sarees,jacquard handloom,katan mulberry silk + zari,2026-08-07,2026-08-27,Varanasi

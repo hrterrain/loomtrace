@@ -1,0 +1,10 @@
+langgraph>=0.2
+langgraph-checkpoint-sqlite>=2.0
+langsmith
+groq
+streamlit
+pandas
+pydantic>=2
+python-dotenv
+# optional: label photo OCR
+# easyocr

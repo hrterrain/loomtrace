@@ -1,0 +1,317 @@
+[
+ {
+  "case_id": "G01",
+  "product": "Kancheepuram Silk",
+  "label_text": "PURE KANCHEEPURAM SILK SAREE | GI Tag No. 15 | Woven at: Kancheepuram, Tamil Nadu | Weaver ID: KAN-W-001 | Batch: KAN-B-1001 | Pure mulberry silk, pure zari",
+  "expected": "Supported",
+  "note": "Registered GI, Kancheepuram in GI area, active weaver KAN-W-001 matches batch KAN-B-1001 (handloom)."
+ },
+ {
+  "case_id": "G02",
+  "product": "Kancheepuram Silk",
+  "label_text": "PURE KANCHEEPURAM SILK SAREE | GI Tag No. 15 | Woven at: Kancheepuram, Tamil Nadu | Weaver ID: KAN-W-002 | Batch: KAN-B-1002 | Pure mulberry silk, pure zari",
+  "expected": "Supported",
+  "note": "Registered GI, Kancheepuram in GI area, active weaver KAN-W-002 matches batch KAN-B-1002 (handloom)."
+ },
+ {
+  "case_id": "G03",
+  "product": "Kancheepuram Silk",
+  "label_text": "PURE KANCHEEPURAM SILK SAREE | GI Tag No. 15 | Woven at: Tiruvannamalai, Tamil Nadu | Weaver ID: KAN-W-003 | Batch: KAN-B-1003 | Pure mulberry silk, pure zari",
+  "expected": "Supported",
+  "note": "Registered GI, Tiruvannamalai in GI area, active weaver KAN-W-003 matches batch KAN-B-1003 (handloom)."
+ },
+ {
+  "case_id": "G04",
+  "product": "Kancheepuram Silk",
+  "label_text": "PURE KANCHEEPURAM SILK SAREE | GI Tag No. 15 | Woven at: Kancheepuram, Tamil Nadu | Weaver ID: KAN-W-004 | Batch: KAN-B-1004 | Pure mulberry silk, pure zari",
+  "expected": "Supported",
+  "note": "Registered GI, Kancheepuram in GI area, active weaver KAN-W-004 matches batch KAN-B-1004 (handloom)."
+ },
+ {
+  "case_id": "G05",
+  "product": "Kancheepuram Silk",
+  "label_text": "PURE KANCHEEPURAM SILK SAREE | GI Tag No. 15 | Woven at: Kancheepuram, Tamil Nadu | Weaver ID: KAN-W-007 | Batch: KAN-B-1007 | Pure mulberry silk, pure zari",
+  "expected": "Supported",
+  "note": "Registered GI, Kancheepuram in GI area, active weaver KAN-W-007 matches batch KAN-B-1007 (handloom)."
+ },
+ {
+  "case_id": "G06",
+  "product": "Kancheepuram Silk",
+  "label_text": "PURE KANCHEEPURAM SILK SAREE | GI Tag No. 15 | Woven at: Surat, Gujarat | Weaver ID: KAN-W-001 | Batch: KAN-B-1001 | Pure mulberry silk, pure zari",
+  "expected": "Conflicting",
+  "note": "Claimed weaving location is outside the GI area and differs from weaver/batch district."
+ },
+ {
+  "case_id": "G07",
+  "product": "Kancheepuram Silk",
+  "label_text": "PURE KANCHEEPURAM SILK SAREE | GI Tag No. 15 | Woven at: Kancheepuram, Tamil Nadu | Weaver ID: KAN-W-005 | Batch: KAN-B-1005 | Pure mulberry silk, pure zari",
+  "expected": "Conflicting",
+  "note": "Batch KAN-B-1005 records production in Surat, outside GI area."
+ },
+ {
+  "case_id": "G08",
+  "product": "Kancheepuram Silk",
+  "label_text": "PURE KANCHEEPURAM SILK SAREE | GI Tag No. 15 | Woven at: Kancheepuram, Tamil Nadu | Weaver ID: KAN-W-006 | Batch: KAN-B-1006 | Pure mulberry silk, pure zari",
+  "expected": "Conflicting",
+  "note": "Batch KAN-B-1006 was made on a powerloom; GI requires handloom."
+ },
+ {
+  "case_id": "G09",
+  "product": "Kancheepuram Silk",
+  "label_text": "PURE KANCHEEPURAM SILK SAREE | GI Tag No. 99 | Woven at: Kancheepuram, Tamil Nadu | Weaver ID: KAN-W-002 | Batch: KAN-B-1002 | Pure mulberry silk, pure zari",
+  "expected": "Conflicting",
+  "note": "GI Tag No. 99 on label does not match registered GI No. 15."
+ },
+ {
+  "case_id": "G10",
+  "product": "Kancheepuram Silk",
+  "label_text": "PURE KANCHEEPURAM SILK SAREE | GI Tag No. 15 | Woven at: Kancheepuram, Tamil Nadu | Weaver ID: POC-W-003 | Batch: KAN-B-1003 | Pure mulberry silk, pure zari",
+  "expected": "Conflicting",
+  "note": "Weaver POC-W-003 is registered for Pochampalli Ikat in Yadadri Bhuvanagiri, not this product; batch belongs to KAN-W-003."
+ },
+ {
+  "case_id": "G11",
+  "product": "Kancheepuram Silk",
+  "label_text": "PURE KANCHEEPURAM SILK SAREE | GI Tag No. 15 | Woven at: Kancheepuram, Tamil Nadu | Pure mulberry silk, pure zari",
+  "expected": "Insufficient",
+  "note": "No weaver ID or batch ID; cannot verify provenance."
+ },
+ {
+  "case_id": "G12",
+  "product": "Kancheepuram Silk",
+  "label_text": "PURE KANCHEEPURAM SILK SAREE | GI Tag No. 15 | Woven at: Kancheepuram, Tamil Nadu | Weaver ID: KAN-W-099 | Batch: KAN-B-1999 | Pure mulberry silk, pure zari",
+  "expected": "Insufficient",
+  "note": "Weaver and batch IDs not found in any registry."
+ },
+ {
+  "case_id": "G13",
+  "product": "Kancheepuram Silk",
+  "label_text": "SILK SAREE - HANDMADE | Traditional design",
+  "expected": "Insufficient",
+  "note": "Vague label: no GI number, location, weaver or batch."
+ },
+ {
+  "case_id": "G14",
+  "product": "Kancheepuram Silk",
+  "label_text": "PURE KANCHEEPURAM SILK SAREE | Batch: KAN-B-1888",
+  "expected": "Insufficient",
+  "note": "Only an unknown batch ID; no location, GI number or weaver."
+ },
+ {
+  "case_id": "G15",
+  "product": "Kancheepuram Silk",
+  "label_text": "PURE KANCHEEPURAM SILK SAREE | GI Tag No. 15 | Weaver ID: KAN-W-004 | Pure mulberry silk, pure zari",
+  "expected": "Insufficient",
+  "note": "Weaver given but no batch record or weaving location to confirm provenance."
+ },
+ {
+  "case_id": "G16",
+  "product": "Pochampalli Ikat",
+  "label_text": "POCHAMPALLY IKAT SILK SAREE | GI Tag No. 4 | Woven at: Yadadri Bhuvanagiri, Telangana | Weaver ID: POC-W-001 | Batch: POC-B-1001 | Handwoven tie & dye, silk-cotton",
+  "expected": "Supported",
+  "note": "Registered GI, Yadadri Bhuvanagiri in GI area, active weaver POC-W-001 matches batch POC-B-1001 (handloom)."
+ },
+ {
+  "case_id": "G17",
+  "product": "Pochampalli Ikat",
+  "label_text": "POCHAMPALLY IKAT SILK SAREE | GI Tag No. 4 | Woven at: Yadadri Bhuvanagiri, Telangana | Weaver ID: POC-W-002 | Batch: POC-B-1002 | Handwoven tie & dye, silk-cotton",
+  "expected": "Supported",
+  "note": "Registered GI, Yadadri Bhuvanagiri in GI area, active weaver POC-W-002 matches batch POC-B-1002 (handloom)."
+ },
+ {
+  "case_id": "G18",
+  "product": "Pochampalli Ikat",
+  "label_text": "POCHAMPALLY IKAT SILK SAREE | GI Tag No. 4 | Woven at: Yadadri Bhuvanagiri, Telangana | Weaver ID: POC-W-003 | Batch: POC-B-1003 | Handwoven tie & dye, silk-cotton",
+  "expected": "Supported",
+  "note": "Registered GI, Yadadri Bhuvanagiri in GI area, active weaver POC-W-003 matches batch POC-B-1003 (handloom)."
+ },
+ {
+  "case_id": "G19",
+  "product": "Pochampalli Ikat",
+  "label_text": "POCHAMPALLY IKAT SILK SAREE | GI Tag No. 4 | Woven at: Nalgonda, Telangana | Weaver ID: POC-W-004 | Batch: POC-B-1004 | Handwoven tie & dye, silk-cotton",
+  "expected": "Supported",
+  "note": "Registered GI, Nalgonda in GI area, active weaver POC-W-004 matches batch POC-B-1004 (handloom)."
+ },
+ {
+  "case_id": "G20",
+  "product": "Pochampalli Ikat",
+  "label_text": "POCHAMPALLY IKAT SILK SAREE | GI Tag No. 4 | Woven at: Yadadri Bhuvanagiri, Telangana | Weaver ID: POC-W-007 | Batch: POC-B-1007 | Handwoven tie & dye, silk-cotton",
+  "expected": "Supported",
+  "note": "Registered GI, Yadadri Bhuvanagiri in GI area, active weaver POC-W-007 matches batch POC-B-1007 (handloom)."
+ },
+ {
+  "case_id": "G21",
+  "product": "Pochampalli Ikat",
+  "label_text": "POCHAMPALLY IKAT SILK SAREE | GI Tag No. 4 | Woven at: Bengaluru, Karnataka | Weaver ID: POC-W-001 | Batch: POC-B-1001 | Handwoven tie & dye, silk-cotton",
+  "expected": "Conflicting",
+  "note": "Claimed weaving location is outside the GI area and differs from weaver/batch district."
+ },
+ {
+  "case_id": "G22",
+  "product": "Pochampalli Ikat",
+  "label_text": "POCHAMPALLY IKAT SILK SAREE | GI Tag No. 4 | Woven at: Yadadri Bhuvanagiri, Telangana | Weaver ID: POC-W-005 | Batch: POC-B-1005 | Handwoven tie & dye, silk-cotton",
+  "expected": "Conflicting",
+  "note": "Batch POC-B-1005 records production in Hyderabad, outside GI area."
+ },
+ {
+  "case_id": "G23",
+  "product": "Pochampalli Ikat",
+  "label_text": "POCHAMPALLY IKAT SILK SAREE | GI Tag No. 4 | Woven at: Yadadri Bhuvanagiri, Telangana | Weaver ID: POC-W-006 | Batch: POC-B-1006 | Handwoven tie & dye, silk-cotton",
+  "expected": "Conflicting",
+  "note": "Batch POC-B-1006 was made on a powerloom; GI requires handloom."
+ },
+ {
+  "case_id": "G24",
+  "product": "Pochampalli Ikat",
+  "label_text": "POCHAMPALLY IKAT SILK SAREE | GI Tag No. 15 | Woven at: Yadadri Bhuvanagiri, Telangana | Weaver ID: POC-W-002 | Batch: POC-B-1002 | Handwoven tie & dye, silk-cotton",
+  "expected": "Conflicting",
+  "note": "GI Tag No. 15 on label does not match registered GI No. 4."
+ },
+ {
+  "case_id": "G25",
+  "product": "Pochampalli Ikat",
+  "label_text": "POCHAMPALLY IKAT SILK SAREE | GI Tag No. 4 | Woven at: Yadadri Bhuvanagiri, Telangana | Weaver ID: BAN-W-003 | Batch: POC-B-1003 | Handwoven tie & dye, silk-cotton",
+  "expected": "Conflicting",
+  "note": "Weaver BAN-W-003 is registered for Banaras Brocades and Sarees in Varanasi, not this product; batch belongs to POC-W-003."
+ },
+ {
+  "case_id": "G26",
+  "product": "Pochampalli Ikat",
+  "label_text": "POCHAMPALLY IKAT SILK SAREE | GI Tag No. 4 | Woven at: Yadadri Bhuvanagiri, Telangana | Handwoven tie & dye, silk-cotton",
+  "expected": "Insufficient",
+  "note": "No weaver ID or batch ID; cannot verify provenance."
+ },
+ {
+  "case_id": "G27",
+  "product": "Pochampalli Ikat",
+  "label_text": "POCHAMPALLY IKAT SILK SAREE | GI Tag No. 4 | Woven at: Yadadri Bhuvanagiri, Telangana | Weaver ID: POC-W-099 | Batch: POC-B-1999 | Handwoven tie & dye, silk-cotton",
+  "expected": "Insufficient",
+  "note": "Weaver and batch IDs not found in any registry."
+ },
+ {
+  "case_id": "G28",
+  "product": "Pochampalli Ikat",
+  "label_text": "IKAT SAREE - HANDMADE | Traditional design",
+  "expected": "Insufficient",
+  "note": "Vague label: no GI number, location, weaver or batch."
+ },
+ {
+  "case_id": "G29",
+  "product": "Pochampalli Ikat",
+  "label_text": "POCHAMPALLY IKAT SILK SAREE | Batch: POC-B-1888",
+  "expected": "Insufficient",
+  "note": "Only an unknown batch ID; no location, GI number or weaver."
+ },
+ {
+  "case_id": "G30",
+  "product": "Pochampalli Ikat",
+  "label_text": "POCHAMPALLY IKAT SILK SAREE | GI Tag No. 4 | Weaver ID: POC-W-004 | Handwoven tie & dye, silk-cotton",
+  "expected": "Insufficient",
+  "note": "Weaver given but no batch record or weaving location to confirm provenance."
+ },
+ {
+  "case_id": "G31",
+  "product": "Banaras Brocades and Sarees",
+  "label_text": "BANARASI KATAN SILK BROCADE SAREE | GI Tag No. 99 | Woven at: Varanasi, Uttar Pradesh | Weaver ID: BAN-W-001 | Batch: BAN-B-1001 | Pure katan silk, kadhua zari, handloom",
+  "expected": "Supported",
+  "note": "Registered GI, Varanasi in GI area, active weaver BAN-W-001 matches batch BAN-B-1001 (handloom)."
+ },
+ {
+  "case_id": "G32",
+  "product": "Banaras Brocades and Sarees",
+  "label_text": "BANARASI KATAN SILK BROCADE SAREE | GI Tag No. 99 | Woven at: Varanasi, Uttar Pradesh | Weaver ID: BAN-W-002 | Batch: BAN-B-1002 | Pure katan silk, kadhua zari, handloom",
+  "expected": "Supported",
+  "note": "Registered GI, Varanasi in GI area, active weaver BAN-W-002 matches batch BAN-B-1002 (handloom)."
+ },
+ {
+  "case_id": "G33",
+  "product": "Banaras Brocades and Sarees",
+  "label_text": "BANARASI KATAN SILK BROCADE SAREE | GI Tag No. 99 | Woven at: Varanasi, Uttar Pradesh | Weaver ID: BAN-W-003 | Batch: BAN-B-1003 | Pure katan silk, kadhua zari, handloom",
+  "expected": "Supported",
+  "note": "Registered GI, Varanasi in GI area, active weaver BAN-W-003 matches batch BAN-B-1003 (handloom)."
+ },
+ {
+  "case_id": "G34",
+  "product": "Banaras Brocades and Sarees",
+  "label_text": "BANARASI KATAN SILK BROCADE SAREE | GI Tag No. 99 | Woven at: Azamgarh, Uttar Pradesh | Weaver ID: BAN-W-004 | Batch: BAN-B-1004 | Pure katan silk, kadhua zari, handloom",
+  "expected": "Supported",
+  "note": "Registered GI, Azamgarh in GI area, active weaver BAN-W-004 matches batch BAN-B-1004 (handloom)."
+ },
+ {
+  "case_id": "G35",
+  "product": "Banaras Brocades and Sarees",
+  "label_text": "BANARASI KATAN SILK BROCADE SAREE | GI Tag No. 99 | Woven at: Varanasi, Uttar Pradesh | Weaver ID: BAN-W-007 | Batch: BAN-B-1007 | Pure katan silk, kadhua zari, handloom",
+  "expected": "Supported",
+  "note": "Registered GI, Varanasi in GI area, active weaver BAN-W-007 matches batch BAN-B-1007 (handloom)."
+ },
+ {
+  "case_id": "G36",
+  "product": "Banaras Brocades and Sarees",
+  "label_text": "BANARASI KATAN SILK BROCADE SAREE | GI Tag No. 99 | Woven at: Surat, Gujarat | Weaver ID: BAN-W-001 | Batch: BAN-B-1001 | Pure katan silk, kadhua zari, handloom",
+  "expected": "Conflicting",
+  "note": "Claimed weaving location is outside the GI area and differs from weaver/batch district."
+ },
+ {
+  "case_id": "G37",
+  "product": "Banaras Brocades and Sarees",
+  "label_text": "BANARASI KATAN SILK BROCADE SAREE | GI Tag No. 99 | Woven at: Chandauli, Uttar Pradesh | Weaver ID: BAN-W-005 | Batch: BAN-B-1005 | Pure katan silk, kadhua zari, handloom",
+  "expected": "Conflicting",
+  "note": "Batch BAN-B-1005 records production in Surat, outside GI area."
+ },
+ {
+  "case_id": "G38",
+  "product": "Banaras Brocades and Sarees",
+  "label_text": "BANARASI KATAN SILK BROCADE SAREE | GI Tag No. 99 | Woven at: Varanasi, Uttar Pradesh | Weaver ID: BAN-W-006 | Batch: BAN-B-1006 | Pure katan silk, kadhua zari, handloom",
+  "expected": "Conflicting",
+  "note": "Batch BAN-B-1006 was made on a powerloom; GI requires handloom."
+ },
+ {
+  "case_id": "G39",
+  "product": "Banaras Brocades and Sarees",
+  "label_text": "BANARASI KATAN SILK BROCADE SAREE | GI Tag No. 4 | Woven at: Varanasi, Uttar Pradesh | Weaver ID: BAN-W-002 | Batch: BAN-B-1002 | Pure katan silk, kadhua zari, handloom",
+  "expected": "Conflicting",
+  "note": "GI Tag No. 4 on label does not match registered GI No. 99."
+ },
+ {
+  "case_id": "G40",
+  "product": "Banaras Brocades and Sarees",
+  "label_text": "BANARASI KATAN SILK BROCADE SAREE | GI Tag No. 99 | Woven at: Chandauli, Uttar Pradesh | Weaver ID: BAN-W-010 | Batch: BAN-B-1003 | Pure katan silk, kadhua zari, handloom",
+  "expected": "Conflicting",
+  "note": "Weaver BAN-W-010 is inactive and batch BAN-B-1003 belongs to BAN-W-003."
+ },
+ {
+  "case_id": "G41",
+  "product": "Banaras Brocades and Sarees",
+  "label_text": "BANARASI KATAN SILK BROCADE SAREE | GI Tag No. 99 | Woven at: Varanasi, Uttar Pradesh | Pure katan silk, kadhua zari, handloom",
+  "expected": "Insufficient",
+  "note": "No weaver ID or batch ID; cannot verify provenance."
+ },
+ {
+  "case_id": "G42",
+  "product": "Banaras Brocades and Sarees",
+  "label_text": "BANARASI KATAN SILK BROCADE SAREE | GI Tag No. 99 | Woven at: Varanasi, Uttar Pradesh | Weaver ID: BAN-W-099 | Batch: BAN-B-1999 | Pure katan silk, kadhua zari, handloom",
+  "expected": "Insufficient",
+  "note": "Weaver and batch IDs not found in any registry."
+ },
+ {
+  "case_id": "G43",
+  "product": "Banaras Brocades and Sarees",
+  "label_text": "SILK BROCADE SAREE - HANDMADE | Traditional design",
+  "expected": "Insufficient",
+  "note": "Vague label: no GI number, location, weaver or batch."
+ },
+ {
+  "case_id": "G44",
+  "product": "Banaras Brocades and Sarees",
+  "label_text": "BANARASI KATAN SILK BROCADE SAREE | Batch: BAN-B-1888",
+  "expected": "Insufficient",
+  "note": "Only an unknown batch ID; no location, GI number or weaver."
+ },
+ {
+  "case_id": "G45",
+  "product": "Banaras Brocades and Sarees",
+  "label_text": "BANARASI KATAN SILK BROCADE SAREE | GI Tag No. 99 | Weaver ID: BAN-W-004 | Pure katan silk, kadhua zari, handloom",
+  "expected": "Insufficient",
+  "note": "Weaver given but no batch record or weaving location to confirm provenance."
+ }
+]
